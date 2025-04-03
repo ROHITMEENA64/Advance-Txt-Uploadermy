@@ -4,7 +4,7 @@ services:
     plan: free
     env: docker
     dockerfilePath: Dockerfile
-    repo: https://github.com/rajrmahar/txt-to-video-new
+    repo: https://github.com/ROHITMEENA64/Advance-Txt-Uploadermy
     branch: main
     autoDeploy: false
     envVars:
